@@ -1,4 +1,5 @@
 # project-wings
+***ÖNEMLİ:BU UYGULAMAYI KÖTÜYE KULLANIMDAN DOĞACAK HUKUKİ SORUMLULUKLAR KULLANAN KİŞİYE AİTTİR UYGULAMA YAZARI KÖTÜ KULLANIMDAN DOĞABİLECEK SONUÇLARDAN SORUMLU TUTULAMAZ UYGULAMAYI İNDİRDİĞİNİZDE BUNU OKUMUŞ KABUL EDİLİRSİNİZ!***
 **Kurulum İçin;
 
 **project-wings klasörüne gidin ve kurulum.py dosyasını çalıştırın daha sonra wings.py dosyasını çalıştırabilirsiniz açabilirsiniz.
@@ -11,5 +12,7 @@
 
 **sorularınız olursa ;
 
+
+-Düzenleme; Arkadaşlar Upload İstismarcısında Bir Sıkıntı Olmuş Düzeltip Tekrar Yükledim:)
 instagram: @oxydesthewhitehat
 tht: oxydes
