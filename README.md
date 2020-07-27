@@ -16,5 +16,5 @@
 
 
 -Düzenleme; Arkadaşlar Upload İstismarcısında Bir Sıkıntı Olmuş Düzeltip Tekrar Yükledim:)
-instagram: @oxydesthewhitehat
+instagram: @oxydess
 tht: oxydes
