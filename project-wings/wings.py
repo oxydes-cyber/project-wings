@@ -34,7 +34,7 @@ try:
 	def trojan():
 	
 		os.system("clear")
-		os.system("figlet Trojan Olusturucu")
+		os.system("figlet MSFVENOM")
 		print("Trojan Oluşturucuya Hoşgeldiniz:)")
 		print("""
 		Payloadlar ;
@@ -70,13 +70,13 @@ try:
 
 		os.system("clear")
 		
-		os.system("figlet UV BY OXYDES")
+		os.system("figlet WEB SHELL")
 	
 	
 		while True:
 			
 		
-			soru = input("Upload Dosyası Üretilsin Mi? (e/h) (çıkmak için q) : ")
+			soru = input("Shell Dosyası Üretilsin Mi? (e/h) (çıkmak için q) : ")
 			
 			if soru == "e":
 				sifre = input("Dosyaya Erişmek İçin Bir Şifre Girin : ")
@@ -132,7 +132,7 @@ try:
 
 	def nmap():
 		os.system("clear")
-		os.system("figlet PORT SCANNER")
+		os.system("figlet NMAP")
 		print("Port Scannera Hoşgeldiniz Nmap Kullanılarak Yapılmıştır...")
 		while True:	
 			soru = input("Devam Etmek İster Misiniz? (e/h) : ")
@@ -209,7 +209,7 @@ try:
 	2)Web Sitesi Zaafiyet Taraması
 	3)Trojan Oluşturucu(%30 fud)
 	4)Rootkit Scanner
-	5)File Upload Açığı İstismar Edici
+	5)WEB SHELL Üretici
 	6)Skipfish Web Güvenlik Tarayıcı
 	7)Port Tarayıcı	
 	8)SQLMAP
