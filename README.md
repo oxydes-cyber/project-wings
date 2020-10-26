@@ -9,7 +9,7 @@ wings klasörüne gidin ve installer.py dosyasını çalıştırın daha sonra w
 
 **İçinde Neler Var?
 
-weevely web shell,nmap,rootkit tarayıcı,msfvenom,sqlmap,netdiscover,nikto,skipfish
+weevely web shell,nmap,rootkit tarayıcı,msfvenom,sqlmap,netdiscover,nikto,skipfish,telefon numarası üzerinden OSINT
 
 **hepsi sizin kullanabilmeniz için Türkçe olarak basitleştirildi rahatlıkla kullanabilirsiniz
 
