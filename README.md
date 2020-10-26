@@ -1,20 +1,17 @@
 # project-wings
-***ÖNEMLİ:BU UYGULAMAYI KÖTÜYE KULLANIMDAN DOĞACAK HUKUKİ SORUMLULUKLAR KULLANAN KİŞİYE AİTTİR UYGULAMA YAZARI KÖTÜ KULLANIMDAN DOĞABİLECEK SONUÇLARDAN SORUMLU TUTULAMAZ UYGULAMAYI İNDİRDİĞİNİZDE BUNU OKUMUŞ KABUL EDİLİRSİNİZ!***
+***ÖNEMLİ:BU UYGULAMAYI KÖTÜYE KULLANIMDAN DOĞACAK HUKUKİ SORUMLULUKLAR KULLANAN KİŞİYE AİTTİR UYGULAMA YAZARI KÖTÜ KULLANIMDAN DOĞABİLECEK SONUÇLARDAN SORUMLU TUTULAMAZ UYGULAMAYI İNDİRDİĞİNİZDE BUNU OKUMUŞ KABUL EDİLİRSİNİZ!
 
+****not:uygulama linux'da çalıştırılmak üzere yazıldı.Windowsda deneyip çalışmadı vb. geri bildirim vermeyin.
 
 **Kurulum İçin;
 
-**project-wings klasörüne gidin ve kurulum.py dosyasını çalıştırın daha sonra wings.py dosyasını çalıştırabilirsiniz açabilirsiniz.
+**wings klasörüne gidin ve installer.py dosyasını çalıştırın daha sonra wings.py dosyasını çalıştırabilirsiniz açabilirsiniz.
 
 **İçinde Neler Var?
 
-**File Upload Açığı İstismarcısı, Port Tarayıcı, Rootkit Tarayıcı, Trojan Oluşturucu, SQLMAP, Netdiscover, Nikto, Skipfish
+**weevely web shell,nmap,rootkit tarayıcı,msfvenom,sqlmap,netdiscover,nikto,skipfish
 
 **hepsi sizin kullanabilmeniz için Türkçe olarak basitleştirildi rahatlıkla kullanabilirsiniz
 
 **sorularınız olursa ;
-
-
--Düzenleme; Arkadaşlar Upload İstismarcısında Bir Sıkıntı Olmuş Düzeltip Tekrar Yükledim:)
-instagram: @oxydess
-tht: oxydes
+https://allmylinks.com/oxydes
