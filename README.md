@@ -1,7 +1,7 @@
 # project-wings
 **ÖNEMLİ:BU UYGULAMAYI KÖTÜYE KULLANIMDAN DOĞACAK HUKUKİ SORUMLULUKLAR KULLANAN KİŞİYE AİTTİR UYGULAMA YAZARI KÖTÜ KULLANIMDAN DOĞABİLECEK SONUÇLARDAN SORUMLU TUTULAMAZ UYGULAMAYI İNDİRDİĞİNİZDE BUNU OKUMUŞ KABUL EDİLİRSİNİZ!
 
-*not:uygulama linux'da çalıştırılmak üzere yazıldı.Windows'da deneyip çalışmadı vb. geri bildirim vermeyin.
+*not:uygulama debian'da çalıştırılmak üzere yazıldı.Windows'da deneyip çalışmadı vb. geri bildirim vermeyin.
 
 **Kurulum İçin;
 
