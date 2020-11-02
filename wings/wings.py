@@ -11,6 +11,7 @@ import sys
 import phonenumbers
 
 try:
+	os.system("clear")
 	os.system("figlet Project:Wings")
 	
 	def netdiscover():
