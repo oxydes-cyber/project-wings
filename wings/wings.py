@@ -83,7 +83,7 @@ try:
 				O7	O7	O7	O7	O7	O7	O7	O7	O7	O7
 							
 		""")
-		print(Fore.GREEN)
+		print(Fore.BLUE)
 	banner_two()
 	time.sleep(5)	
 	os.system("clear")
