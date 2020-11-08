@@ -502,7 +502,7 @@ try:
 	14)dig
 	15)wiki-search
 	16)insta_explore
-	17)site_scraper
+	17)url_scraper
 	99)çıkış
 	""")
 	secim = int(input("Seçiminizi Girin : "))
