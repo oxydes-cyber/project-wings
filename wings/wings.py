@@ -6,15 +6,15 @@
 
 
 		##################################################
-		#		  project:wings			#
-		#		 Automatized Kali		#
-		#		   Linux Tools			#
-		#	       github.com/oxydes-cyber		#
-		#        !!!DONT COPY WITHOUT PERMISSIONS!!!	#
-		#		  Author: oxydes		#
-		#	   contact: instagram.com/oxydes7	#	
-		#	    https://allmylinks.com/oxydes	#
-		#	       DEVELOPMENT IN PROGRESS		#
+		#		  project:wings			 #
+		#		 Automatized Kali		 #
+		#		   Linux Tools			 #
+		#	       github.com/oxydes-cyber		 #
+		#        !!!DONT COPY WITHOUT PERMISSIONS!!!	 #
+		#		  Author: oxydes		 #
+		#	   contact: instagram.com/oxydes7	 #	
+		#	    https://allmylinks.com/oxydes	 #
+		#	       DEVELOPMENT IN PROGRESS		 #
 		##################################################
 
 
