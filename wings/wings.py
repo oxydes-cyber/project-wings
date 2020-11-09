@@ -37,7 +37,7 @@ import selenium
 
 import json
 
-import instagram_explore
+import instagram_explore as ie
 
 import bs4
 
@@ -405,11 +405,6 @@ try:
  
 
 	def insta_explore():
-		
-		import instagram_explore as ie
-		import json
-		
-
 		os.system("clear")
 		os.system("figlet IG_EXPLORE")
 
@@ -445,9 +440,7 @@ try:
 	
 
 	def url_scraper():
-		
 		from bs4 import BeautifulSoup
-		import requests
 		
 		os.system("clear")
 		os.system("figlet SITE_SCRAPER")
