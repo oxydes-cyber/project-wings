@@ -1,5 +1,6 @@
 import os
 import time
+
 print("İndirme Başlatılıyor...")
 time.sleep(3)
 os.system("apt-get install python3-pip")
@@ -11,7 +12,6 @@ os.system("pip install selenium")
 os.system("pip install requests")
 os.system("pip install instagram_explore")
 os.system("pip install json")
-os.system("apt-get install telnet")
 os.system("apt-get install dmitry")
 os.system("apt-get install dig")
 os.system("apt-get install dnsmap")
