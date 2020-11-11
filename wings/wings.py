@@ -531,26 +531,28 @@ try:
         print("@alismsk234'den esinlenilmiştir,teşekkürler.\n")
 
         ipA = input("Hedef ip adresini gir>> ")
-        adres = ("https://tools.keycdn.com/geo.json?host="+ipA)
+        adres = "https://tools.keycdn.com/geo.json?host=" + ipA
         baglan = requests.post(adres)
         baGlann = baglan.json()
-        print("İp adresi: "+baGlann["data"]["geo"]["ip"])
-        print("Konumu: "+baGlann["data"]["geo"]["timezone"])
-        print("Posta Kodu: "+baGlann["data"]["geo"]["postal_code"])
+        print("İp adresi: " + baGlann["data"]["geo"]["ip"])
+        print("Konumu: " + baGlann["data"]["geo"]["timezone"])
+        print("Posta Kodu: " + baGlann["data"]["geo"]["postal_code"])
 
         a = baGlann["data"]["geo"]["latitude"]
         b = baGlann["data"]["geo"]["longitude"]
-        print("Koordinat: ",a,",",b)
+        print("Koordinat: ", a, ",", b)
         c = baGlann["data"]["geo"]["city"]
         d = baGlann["data"]["geo"]["region_code"]
-        print("Şehir ve şehir kodu: ",c,d)
+        print("Şehir ve şehir kodu: ", c, d)
 
         ques = input("Koordinatlarına haritadan bakılsın mı? e/h >> ")
 
         if ques == "e" or "E":
             map = folium.Map(location=[str(a), str(b)])
             map.save("map1.html")
-            print("Harita 'project-wings' dizinin altındaki wings klasörünün altına 'map1.html' olarak kaydedildi.")
+            print(
+                "Harita 'project-wings' dizinin altındaki wings klasörünün altına 'map1.html' olarak kaydedildi."
+            )
 
         elif ques == "h" or "H":
             print("Görüşmek üzere")
