@@ -13,5 +13,5 @@ weevely web shell,nmap,rootkit tarayıcı,msfvenom,sqlmap,netdiscover,nikto,skip
 
 **hepsi sizin kullanabilmeniz için Türkçe olarak basitleştirildi rahatlıkla kullanabilirsiniz
 
-**sorularınız olursa ;
+**sorularınız ve hata bildirimlerinizi aşağıdaki linkten yollayın;
 https://allmylinks.com/oxydes
