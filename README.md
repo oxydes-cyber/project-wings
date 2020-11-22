@@ -9,9 +9,9 @@ wings klasörüne gidin ve installer.py dosyasını çalıştırın daha sonra w
 
 **İçinde Neler Var?
 
-Güncel 25 Fonksiyon
+Güncel 26 Fonksiyon
 
-weevely web shell,nmap,rootkit tarayıcı,msfvenom,sqlmap,netdiscover,nikto,skipfish,telefon numarası üzerinden OSINT,dnsmap,dirb,theHarvester,wafw00f,wiki-search,instagram-explorer,url scraper,video indirici,şifreleyici,internet hız testi,png to jpg converter,domain checker, instagram pp,id indirici , +1 sinema :)
+weevely web shell,nmap,rootkit tarayıcı,msfvenom,sqlmap,netdiscover,nikto,skipfish,telefon numarası üzerinden OSINT,dnsmap,dirb,theHarvester,wafw00f,wiki-search,instagram-explorer,url scraper,video indirici,şifreleyici,internet hız testi,png to jpg converter,domain checker, instagram pp,id indirici, mac changer , +1 sinema :)
 
 **hepsi sizin kullanabilmeniz için Türkçe olarak basitleştirildi rahatlıkla kullanabilirsiniz
 
