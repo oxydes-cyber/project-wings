@@ -1,5 +1,5 @@
 # project-wings
-**SORUMLULUK REDDİ BEYANI :BU UYGULAMAYI KÖTÜYE KULLANIMDAN DOĞACAK HUKUKİ SORUMLULUKLAR KULLANAN KİŞİYE AİTTİR UYGULAMA YAZARI KÖTÜ KULLANIMDAN DOĞABİLECEK SONUÇLARDAN SORUMLU TUTULAMAZ UYGULAMAYI İNDİRDİĞİNİZDE BUNU OKUMUŞ KABUL EDİLİRSİNİZ!
+**SORUMLULUK REDDİ BEYANI : BU UYGULAMAYI KÖTÜYE KULLANIMDAN DOĞACAK HUKUKİ SORUMLULUKLAR KULLANAN KİŞİYE AİTTİR UYGULAMA YAZARI KÖTÜ KULLANIMDAN DOĞABİLECEK SONUÇLARDAN SORUMLU TUTULAMAZ UYGULAMAYI İNDİRDİĞİNİZDE BUNU OKUMUŞ KABUL EDİLİRSİNİZ!
 
 *not:uygulama debian'da çalıştırılmak(uygulamayı ya sudo yazarak çalıştırın veya root kullanıcısı olarak çalıştırın) üzere yazıldı.Windows'da deneyip çalışmadı vb. geri bildirim vermeyin.
 
@@ -9,9 +9,9 @@ wings klasörüne gidin ve installer.py dosyasını çalıştırın daha sonra w
 
 **İçinde Neler Var?
 
-Güncel 26 Fonksiyon
+Güncel 27 Fonksiyon
 
-weevely web shell,nmap,rootkit tarayıcı,msfvenom,sqlmap,netdiscover,nikto,skipfish,telefon numarası üzerinden OSINT,dnsmap,dirb,theHarvester,wafw00f,wiki-search,instagram-explorer,url scraper,video indirici,şifreleyici,internet hız testi,png to jpg converter,domain checker, instagram pp,id indirici, mac changer , +1 sinema :)
+weevely web shell,nmap,rootkit tarayıcı,msfvenom,sqlmap,netdiscover,nikto,skipfish,telefon numarası üzerinden OSINT,dnsmap,dirb,theHarvester,wafw00f,wiki-search,instagram-explorer,url scraper,video indirici,şifreleyici,internet hız testi,png to jpg converter,domain checker, instagram pp,id indirici, mac changer , url kısaltıcı , +1 sinema :)
 
 **hepsi sizin kullanabilmeniz için Türkçe olarak basitleştirildi rahatlıkla kullanabilirsiniz
 
