@@ -1593,21 +1593,6 @@ try:
         print("Hatalı Giriş Yaptınız ...")
 
 except KeyboardInterrupt:
-
-    def star_wars():
-        os.system("clear")
-        print("Canın mı sıkıldı :(")
-        time.sleep(2)
-
     os.system("clear")
     print("\nHoşçakal:)")
 
-    def star_wars():
-        os.system("clear")
-        print("Canın mı sıkıldı :(")
-        time.sleep(2)
-
-    def star_wars():
-        os.system("clear")
-        print("Canın mı sıkıldı :(")
-        time.sleep(2)
