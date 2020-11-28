@@ -11,7 +11,7 @@ wings klasörüne gidin ve installer.py dosyasını çalıştırın daha sonra w
 
 Güncel 33 Fonksiyon
 
-weevely web shell,nmap,rootkit tarayıcı,msfvenom,sqlmap,netdiscover,nikto,skipfish,telefon numarası üzerinden OSINT,dnsmap,dirb,theHarvester,wafw00f,wiki-search,instagram-explorer,url scraper,video indirici,şifreleyici,internet hız testi,png to jpg converter,domain checker, instagram pp,id indirici, mac changer , url kısaltıcı ,GUI'li video indirici,Parola türetici,QR Code üretici,Steghide,çeviri ,+1 sinema :)
+weevely web shell,nmap,rootkit tarayıcı,msfvenom,sqlmap,netdiscover,nikto,skipfish,telefon numarası üzerinden OSINT,dnsmap,dirb,theHarvester,wafw00f,wiki-search,instagram-explorer,url scraper,video indirici,şifreleyici,internet hız testi,png to jpg converter,domain checker, instagram pp,id indirici, mac changer , url kısaltıcı ,GUI'li video indirici,Parola türetici,QR Code üretici,Steghide,çeviri ,Covid Info,+1 sinema :)
 
 **hepsi sizin kullanabilmeniz için Türkçe olarak basitleştirildi rahatlıkla kullanabilirsiniz
 
